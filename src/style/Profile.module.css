@@ -1,0 +1,31 @@
+.container{
+width: 100%;
+position: relative;
+
+}
+.profileImage{
+width: 100%;
+}
+.profileImage img{
+    width: 100%;
+    
+}
+.ProfileRight{
+ position: absolute;
+ top: 100px;
+ right: 100px;
+ border: 2px solid black;
+ padding: 0;
+ margin: 0;
+
+}
+.ProfileRight img{
+    width: 100%;
+   border-radius: 50%;
+}
+.ProfileLeft{
+position: absolute;
+top: 100px;
+
+left: 100px;
+}

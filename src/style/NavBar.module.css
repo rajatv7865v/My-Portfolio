@@ -1,0 +1,28 @@
+.container{
+/* border: 2px solid black; */
+width: 98%;
+
+}
+.containerChild{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    
+
+}
+.logo{
+width: 10%;
+cursor: pointer;
+
+}
+.menu{
+cursor: pointer;
+display: flex;
+width: 30%;
+justify-content: space-evenly;
+}
